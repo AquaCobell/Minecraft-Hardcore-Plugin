@@ -1,0 +1,17 @@
+name: 'Hardcore-Multiplayer'
+version: '1.0.0'
+main: com.nico.hardcore.App
+api-version: '1.20'
+
+
+# Replace "kit" with the name of your command.
+commands:
+   death:
+      description: Deletes the map and creates a new one.
+      usage: /death
+
+
+# Set the starter world name.
+setting:
+   current World: world
+      
