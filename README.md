@@ -3,7 +3,9 @@ Whenever someone dies, a new world is created, and every player gets teleported 
 Old worlds dont get deleted, every new world is named after date and time.
 
 ### How to Run
-Drag and drop the jar file in your plugins folder.
+Start a new Spigot server, and drag and drop the jar file in your plugins folder.
+Default world must be named world. Otherwise it probably breaks.
+
 
 ### How to start all over
 Delete all worlds in your server directory including the world folder.
